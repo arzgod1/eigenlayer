@@ -27,12 +27,12 @@ cat $HOME/.profile
 
 apt install golang-go
 
-go version
+go version 1122
 
 ------------------------------------------------------------------
 install docker
 
-
+//good 
 cd ~
 
 sudo apt-get update
