@@ -18,6 +18,7 @@ cd /usr/local/
 echo $PATH
 
 sudo nano $HOME/.profile
+sudo home
 
 export PATH=$PATH:/usr/local/go/bin
 
