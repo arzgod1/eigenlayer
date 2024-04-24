@@ -99,7 +99,7 @@ mkdir -p $HOME/.eigenlayer/eigenda/db
 docker compose up -d
 
 docker compose logs -f
-
+docker compose up -c
 
 
 
