@@ -3,7 +3,7 @@
 
 ----------------------------------------------------------------
 install go
-
+instal V
 sudo apt -v
 sudo apt update
 //upgrate
