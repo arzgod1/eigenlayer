@@ -7,8 +7,8 @@ install go
 instal V
 sudo apt -v
 sudo apt update
-//upgrate
-sudo apt upgrade
+//upgrate22
+sudo apt upgrade aa
 sudo V upgrate
 
 wget https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz
