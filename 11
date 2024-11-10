@@ -1,7 +1,5 @@
 //eigenlayer 
 //code for me
-//cde1
-//code2
 ----------------------------------------------------------------
 install go
 instal V
@@ -9,7 +7,6 @@ sudo apt -v
 sudo apt update
 //upgrate22
 sudo apt upgrade aa
-sudo V upgrate
 
 wget https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz
 
@@ -19,6 +16,7 @@ cd /usr/local/
 
 echo $PATH
 //stone
+//sudo
 sudo nano home
 sudo nano $HOME/.profile
 sudo home
